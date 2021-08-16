@@ -1,0 +1,25 @@
+TPR：所有正类中，有多少被预测成正类（正类预测正确），即召回率【开集检测正确】
+FPR：所有反类中，有多少被预测成正类（正类预测错误）【开集检测错误】
+TNR：所有反类中，有多少被预测成反类（反类预测正确）【闭集分类正确】
+FNR：所有正类中，有多少被预测成反类（反类预测错误）【闭集分类错误】
+Correct Classification Rate (CCR=TNR）
+ 
+ROC curve：FPR-TPR
+PR curve：Recall-Rrecision
+
+闭集模型
+Acc
+
+开集模型
+TNR：TNR at 95% TPR
+DTACC：0.5(tp+tn).Maximum classification probability with P(x∈in)=P(x∈out)=0.5
+AUIN：AUPR where in-distribution samples are specified as positive   
+AUOUT：AUPR where out-of-distribution samples are specified as positive.
+AUROC：Area under ROC curve
+OSCR：Open Set Classification Rate，Area under CCR-FPR curve
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+Currently using GPU: 2
+imagenet Preparation
+Selected Labels:  [2, 13, 44, 64, 76, 111, 128, 136, 167, 187]
+All Train Data: 1281167
+All Test Data: 50000
+Train:  12454 Test:  500 Out:  1000
+All Test:  1500
+Creating model: Resnet34
+Creating GAN
+Acc: 92.80000
+       TNR    AUROC  DTACC  AUIN   AUOUT 
+Bas    36.400 85.802 80.200 76.477 91.116
+Acc (%): 92.800	 AUROC (%): 85.802	 OSCR (%): 82.302	 F1 (%): 39.904	 THRESHOLD (%): 0.669	

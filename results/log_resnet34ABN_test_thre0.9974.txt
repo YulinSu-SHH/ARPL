@@ -1,0 +1,65 @@
+Currently using GPU: 2
+imagenet Preparation
+Selected Labels:  [2, 13, 44, 64, 76, 111, 128, 136, 167, 187]
+All Train Data: 1281167
+All Test Data: 50000
+Train:  12454 Test:  500 Out:  1000
+All Test:  1500
+Creating model: resnet32ABN
+Creating GAN
+Acc: 82.00000
+       TNR    AUROC  DTACC  AUIN   AUOUT 
+Bas    28.500 78.907 75.150 58.125 85.857
+Acc (%): 82.000	 AUROC (%): 78.907	 OSCR (%): 65.587	
+Currently using GPU: 2
+imagenet Preparation
+Selected Labels:  [4, 32, 51, 67, 87, 116, 144, 148, 155, 185]
+All Train Data: 1281167
+All Test Data: 50000
+Train:  12966 Test:  500 Out:  1000
+All Test:  1500
+Creating model: resnet32ABN
+Creating GAN
+Acc: 92.40000
+       TNR    AUROC  DTACC  AUIN   AUOUT 
+Bas    24.600 85.593 80.250 78.362 88.836
+Acc (%): 92.400	 AUROC (%): 85.593	 OSCR (%): 81.879	
+Currently using GPU: 2
+imagenet Preparation
+Selected Labels:  [3, 10, 23, 29, 54, 133, 146, 156, 161, 184]
+All Train Data: 1281167
+All Test Data: 50000
+Train:  13000 Test:  500 Out:  1000
+All Test:  1500
+Creating model: resnet32ABN
+Creating GAN
+Acc: 85.40000
+       TNR    AUROC  DTACC  AUIN   AUOUT 
+Bas    13.400 77.563 72.900 60.272 82.943
+Acc (%): 85.400	 AUROC (%): 77.563	 OSCR (%): 70.161	
+Currently using GPU: 2
+imagenet Preparation
+Selected Labels:  [1, 17, 36, 66, 84, 102, 154, 170, 182, 195]
+All Train Data: 1281167
+All Test Data: 50000
+Train:  13000 Test:  500 Out:  1000
+All Test:  1500
+Creating model: resnet32ABN
+Creating GAN
+Acc: 92.40000
+       TNR    AUROC  DTACC  AUIN   AUOUT 
+Bas    33.400 86.244 79.350 79.320 90.239
+Acc (%): 92.400	 AUROC (%): 86.244	 OSCR (%): 82.225	
+Currently using GPU: 2
+imagenet Preparation
+Selected Labels:  [4, 16, 34, 59, 77, 101, 130, 147, 166, 172]
+All Train Data: 1281167
+All Test Data: 50000
+Train:  12575 Test:  500 Out:  1000
+All Test:  1500
+Creating model: resnet32ABN
+Creating GAN
+Acc: 84.20000
+       TNR    AUROC  DTACC  AUIN   AUOUT 
+Bas    29.800 84.218 78.050 78.136 88.346
+Acc (%): 84.200	 AUROC (%): 84.218	 OSCR (%): 74.214	

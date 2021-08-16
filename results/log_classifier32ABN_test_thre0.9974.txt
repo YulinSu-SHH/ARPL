@@ -1,0 +1,65 @@
+Currently using GPU: 2
+imagenet Preparation
+Selected Labels:  [2, 13, 44, 64, 76, 111, 128, 136, 167, 187]
+All Train Data: 1281167
+All Test Data: 50000
+Train:  12454 Test:  500 Out:  1000
+All Test:  1500
+Creating model: effnetv2
+Creating GAN
+Acc: 81.00000
+       TNR    AUROC  DTACC  AUIN   AUOUT 
+Bas    16.500 73.479 68.500 60.004 81.290
+Acc (%): 81.000	 AUROC (%): 73.479	 OSCR (%): 64.585	
+Currently using GPU: 2
+imagenet Preparation
+Selected Labels:  [4, 32, 51, 67, 87, 116, 144, 148, 155, 185]
+All Train Data: 1281167
+All Test Data: 50000
+Train:  12966 Test:  500 Out:  1000
+All Test:  1500
+Creating model: effnetv2
+Creating GAN
+Acc: 84.00000
+       TNR    AUROC  DTACC  AUIN   AUOUT 
+Bas    25.500 78.501 71.700 67.271 85.485
+Acc (%): 84.000	 AUROC (%): 78.501	 OSCR (%): 70.048	
+Currently using GPU: 2
+imagenet Preparation
+Selected Labels:  [3, 10, 23, 29, 54, 133, 146, 156, 161, 184]
+All Train Data: 1281167
+All Test Data: 50000
+Train:  13000 Test:  500 Out:  1000
+All Test:  1500
+Creating model: effnetv2
+Creating GAN
+Acc: 83.40000
+       TNR    AUROC  DTACC  AUIN   AUOUT 
+Bas    15.900 70.342 64.500 56.953 80.902
+Acc (%): 83.400	 AUROC (%): 70.342	 OSCR (%): 62.672	
+Currently using GPU: 2
+imagenet Preparation
+Selected Labels:  [1, 17, 36, 66, 84, 102, 154, 170, 182, 195]
+All Train Data: 1281167
+All Test Data: 50000
+Train:  13000 Test:  500 Out:  1000
+All Test:  1500
+Creating model: effnetv2
+Creating GAN
+Acc: 88.20000
+       TNR    AUROC  DTACC  AUIN   AUOUT 
+Bas    24.900 78.584 72.050 66.653 86.392
+Acc (%): 88.200	 AUROC (%): 78.584	 OSCR (%): 72.760	
+Currently using GPU: 2
+imagenet Preparation
+Selected Labels:  [4, 16, 34, 59, 77, 101, 130, 147, 166, 172]
+All Train Data: 1281167
+All Test Data: 50000
+Train:  12575 Test:  500 Out:  1000
+All Test:  1500
+Creating model: effnetv2
+Creating GAN
+Acc: 78.20000
+       TNR    AUROC  DTACC  AUIN   AUOUT 
+Bas    21.200 78.367 71.850 69.290 85.626
+Acc (%): 78.200	 AUROC (%): 78.367	 OSCR (%): 66.130	

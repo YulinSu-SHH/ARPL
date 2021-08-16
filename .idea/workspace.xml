@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f905992-e549-4e5b-ae43-72dce10bfca5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ARPL-master" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vCiDhJ2z72yAntfaopfKwi3vQd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\29624\Desktop\ARPL-master" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.scratch">
+    <configuration name="confusion_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ARPL-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vis/confusion_matrix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ARPL-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tsne" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ARPL-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vis/tsne.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.scratch" />
+        <item itemvalue="Python.confusion_matrix" />
+        <item itemvalue="Python.tsne" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f905992-e549-4e5b-ae43-72dce10bfca5" name="Default Changelist" comment="" />
+      <created>1626072353073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626072353073</updated>
+      <workItem from="1626072354368" duration="16848000" />
+      <workItem from="1626313312507" duration="6999000" />
+      <workItem from="1626829738522" duration="13151000" />
+      <workItem from="1626916020123" duration="17966000" />
+      <workItem from="1627003554941" duration="12336000" />
+      <workItem from="1627350952059" duration="13054000" />
+      <workItem from="1627437089821" duration="21413000" />
+      <workItem from="1627867772551" duration="9700000" />
+      <workItem from="1627893674752" duration="328000" />
+      <workItem from="1627894017127" duration="3138000" />
+      <workItem from="1627955226613" duration="13338000" />
+      <workItem from="1628039622514" duration="19966000" />
+      <workItem from="1628127219275" duration="11893000" />
+      <workItem from="1628212553105" duration="20905000" />
+      <workItem from="1628470964392" duration="19624000" />
+      <workItem from="1628558475632" duration="12929000" />
+      <workItem from="1628646007183" duration="7515000" />
+      <workItem from="1628753213012" duration="4901000" />
+      <workItem from="1628823094517" duration="10417000" />
+      <workItem from="1629076956777" duration="1520000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="358" y="0" key="#train" timestamp="1627972789009">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="358" y="0" key="#train/0.0.1280.680@0.0.1280.680" timestamp="1627972789009" />
+    <state x="421" y="85" key="FileChooserDialogImpl" timestamp="1627008813561">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="85" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1627008813561" />
+    <state width="1237" height="158" key="GridCell.Tab.0.bottom" timestamp="1628647016081">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="158" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1628647016081" />
+    <state width="1237" height="158" key="GridCell.Tab.0.center" timestamp="1628647016081">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="158" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1628647016081" />
+    <state width="1237" height="158" key="GridCell.Tab.0.left" timestamp="1628647016081">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="158" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1628647016081" />
+    <state width="1237" height="158" key="GridCell.Tab.0.right" timestamp="1628647016081">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="158" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1628647016081" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1626921775512">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1626921775512" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/effnetv2.py</url>
+          <line>145</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/loss/Dist.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/core/train.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ARPL_master$tsne.coverage" NAME="tsne Coverage Results" MODIFIED="1628042394822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vis" />
+    <SUITE FILE_PATH="coverage/ARPL_master$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1628646998347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/ARPL_master$confusion_matrix.coverage" NAME="confusion_matrix Coverage Results" MODIFIED="1628236604149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vis" />
+  </component>
+</project>
